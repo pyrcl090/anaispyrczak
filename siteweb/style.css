@@ -235,7 +235,7 @@ img{
     line-height: 3vh;    
 }
 
-@media only screen and (max-width: 380px) {
+@media only screen and (max-width: 430px) {
     span{ 
         font-size: 1.5vh;
         line-height: 1.9vh;   
